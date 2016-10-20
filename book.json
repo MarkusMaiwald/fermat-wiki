@@ -20,7 +20,10 @@
         "scrollablecode",
         "scripts",
         "richquotes",
-        "retina"
+        "retina",
+        "versioning",
+        "richquotesbooster",
+        "versions"
     ],
     "pluginsConfig": {
         "sharing": {
@@ -50,7 +53,7 @@
             "useIdentifier": true
         },
         "versions": {
-            "type": "languages",
+            "type": "branches",
             "includeFilepath": true
         }
     }

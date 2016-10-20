@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "-highlight",
+        "highlight",
         "search",
         "disqus",
         "add-header",

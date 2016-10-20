@@ -15,15 +15,14 @@
         "tasklist",
         "tabs",
         "spoiler",
-        "snippets",
         "signature",
         "scrollablecode",
-        "scripts",
         "richquotes",
         "retina",
         "versioning",
         "richquotesbooster",
-        "versions"
+        "versions",
+        "-theme-default"
     ],
     "pluginsConfig": {
         "sharing": {
@@ -33,14 +32,14 @@
             "weibo": false,
             "instapaper": false,
             "vk": false,
-            "all": "facebook,google,twitter,weibo,instapaper"
+            "all": "facebook,google,twitter"
         },
         "lunr": {
             "maxIndexSize": 1000000,
             "ignoreSpecialCharacters": false
         },
         "fontsettings": {
-            "theme": "sepia",
+            "theme": "white",
             "family": "serif",
             "size": 2
         },
@@ -55,6 +54,6 @@
         "versions": {
             "type": "branches",
             "includeFilepath": true
-        }
+        },
     }
 }

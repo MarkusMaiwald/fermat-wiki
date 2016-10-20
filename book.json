@@ -1,0 +1,59 @@
+{
+    "plugins": [
+        "-highlight",
+        "search",
+        "disqus",
+        "add-header",
+        "anchorjs",
+        "asciinema",
+        "youtubex",
+        "wide-page",
+        "word-count",
+        "versions",
+        "toggle-chapters",
+        "todo",
+        "theme-packt",
+        "theme-faq",
+        "tasklist",
+        "tabs",
+        "spoiler",
+        "snippets",
+        "signature",
+        "scrollablecode",
+        "scripts",
+        "richquotes",
+        "retina"
+    ],
+    "pluginsConfig": {
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false,
+            "all": "facebook,google,twitter,weibo,instapaper"
+        },
+        "lunr": {
+            "maxIndexSize": 1000000,
+            "ignoreSpecialCharacters": false
+        },
+        "fontsettings": {
+            "theme": "sepia",
+            "family": "serif",
+            "size": 2
+        },
+        "theme-default": {
+            "styles": "",
+            "showLevel": true
+        },
+        "disqus": {
+            "shortName": "fermat-wiki",
+            "useIdentifier": true
+        },
+        "versions": {
+            "type": "languages",
+            "includeFilepath": true
+        }
+    }
+}

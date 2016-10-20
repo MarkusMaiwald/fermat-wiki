@@ -43,10 +43,6 @@
             "family": "serif",
             "size": 2
         },
-        "theme-default": {
-            "styles": "",
-            "showLevel": true
-        },
         "disqus": {
             "shortName": "fermat-wiki",
             "useIdentifier": true

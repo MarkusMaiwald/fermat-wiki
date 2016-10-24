@@ -2,16 +2,6 @@
     "plugins": [
 
     ],
-    "pluginsConfig": {
-        "sharing": {
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "weibo": false,
-            "instapaper": false,
-            "vk": false,
-            "all": "facebook,google,twitter"
-        },
         "lunr": {
             "maxIndexSize": 1000000,
             "ignoreSpecialCharacters": false

@@ -23,6 +23,7 @@
         "versions",
         "-theme-default",
     ],
+},
     "pluginsConfig": {
         "lunr": {
             "maxIndexSize": 1000000,

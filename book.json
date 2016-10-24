@@ -22,7 +22,8 @@
         "richquotesbooster",
         "versions",
         "-theme-default",
-        "-sharing"
+        "-sharing",
+        "share"
     ],
     "pluginsConfig": {
         "sharing": {

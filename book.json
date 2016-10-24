@@ -21,7 +21,8 @@
         "retina",
         "richquotesbooster",
         "versions",
-        "-theme-default"
+        "-theme-default",
+        "-sharing"
     ],
     "pluginsConfig": {
         "sharing": {

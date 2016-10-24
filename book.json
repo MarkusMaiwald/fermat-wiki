@@ -2,22 +2,5 @@
     "plugins": [
 
     ],
-        "lunr": {
-            "maxIndexSize": 1000000,
-            "ignoreSpecialCharacters": false
-        },
-        "fontsettings": {
-            "theme": "white",
-            "family": "serif",
-            "size": 2
-        },
-        "disqus": {
-            "shortName": "fermat-wiki",
-            "useIdentifier": true
-        },
-        "versions": {
-            "type": "branches",
-            "includeFilepath": true
-        }
-    }
+
 }

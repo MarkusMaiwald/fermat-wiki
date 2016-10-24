@@ -1,0 +1,13 @@
+{
+    "plugins": [
+        "disqus",
+        "layout",
+        "youtubex"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "fermat-wiki",
+            "useIdentifier": true
+        }
+    }
+}

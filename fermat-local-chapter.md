@@ -10,14 +10,31 @@ To be accepted as a trusted Local Chapter, some requirements have to be met. The
 
 Theses requirements are:
 
-* ## 
-
+* 
 
 ## Responsibilities
 
 A Fermat Local Chapter has some responsibilities. The main responsibility is to help building the Fermat Community and therefore establishes the Fermat Network. The Fermat Network consists of everybody who is for example using Fermat Apps or providing a Home Node.
 
-## Tasks
+The Fermat Local Chapters are responsible for
 
+1. **Representing Fermat as a role model**
+
+2. **Supporting Fermat and its vision**
+
+3. **Building an ecosystem around the Chapter with Community**
+
+
+## Rules for trusted Local Chapters
+
+
+
+1. **Set up a legal framework and connect Fermat to real life business**
+
+2. **Build and maintain a website dedicated to the Local Chapter**
+
+3. **Run decentralized local Home Nodes with the Chapter**
+
+4. **Promoting and teaching Fermat**
 
 

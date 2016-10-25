@@ -2,7 +2,11 @@
     "plugins": [
         "disqus",
         "layout",
-        "youtubex"
+        "youtubex",
+        "-theme-default",
+        "theme-packt",
+        "autocover",
+        "git-author"
     ],
     "pluginsConfig": {
         "disqus": {

@@ -1,4 +1,4 @@
-\# Safe Wallet Guide for countries with a high theft rate
+# Safe Wallet Guide for countries with a high theft rate
 
 
 
@@ -6,11 +6,11 @@ Many people say that Crypto-Wallets are a very safe place to store your money in
 
 
 
-Imagine you only have a smartphone and no computer to store your money\\/IoPs on. Normally you take your smartphone everywhere you go. But if you live in a country with a high theft rate, the probability to lose your smartphone, and the wallet stored on it, is very high. There are several countries in which this is the case, these are for example Belgium, Venezuela, South Africa and many more.
+Imagine you only have a smartphone and no computer to store your money\/IoPs on. Normally you take your smartphone everywhere you go. But if you live in a country with a high theft rate, the probability to lose your smartphone, and the wallet stored on it, is very high. There are several countries in which this is the case, these are for example Belgium, Venezuela, South Africa and many more.
 
 
 
-So storing all your money\\/IoPs on your smartphone is very dangerous!
+So storing all your money\/IoPs on your smartphone is very dangerous!
 
 
 
@@ -22,31 +22,31 @@ You will need:
 
 
 
-\* Your currently used smartphone
+* Your currently used smartphone
 
 
 
-\* A not usually used smartphone, with Android 4.1 and up
+* A not usually used smartphone, with Android 4.1 and up
 
 
 
-\* A USB-Stick
+* A USB-Stick
 
 
 
-\* Optional: Access to a Cloud platform
+* Optional: Access to a Cloud platform
 
 
 
 
 
-\#\# Step 1 - Download\\/Install the IoP Wallet
+## Step 1 - Download\/Install the IoP Wallet
 
 
 
-{%youtube%}ruI9aCZD\\_NA{%endyoutube%}
+{%youtube%}ruI9aCZD\_NA{%endyoutube%}
 
-\[https:\\/\\/www.youtube.com\\/watch?v=ruI9aCZD\\_NA\]\(https:\/\/www.youtube.com\/watch?v=ruI9aCZD\_NA\)
+[https:\/\/www.youtube.com\/watch?v=ruI9aCZD\_NA](https://www.youtube.com/watch?v=ruI9aCZD_NA)
 
 
 
@@ -70,7 +70,7 @@ If someone steals your currently used smartphone, only a very small amount of mo
 
 
 
-\#\# Step 2 - Backup your “digital safe” wallet
+## Step 2 - Backup your “digital safe” wallet
 
 
 
@@ -88,14 +88,13 @@ To be on the safe side, you will need to make an encrypted backup of your “dig
 
 Just follow this tutorial:
 
-{%youtube%}Z\\_nwcx-N8Dc{%endyoutube%}
+{%youtube%}Z\_nwcx-N8Dc{%endyoutube%}
 
-\[https:\\/\\/www.youtube.com\\/watch?v=Z\\_nwcx-N8Dc\]\(https:\/\/www.youtube.com\/watch?v=Z\_nwcx-N8Dc\)
+[https:\/\/www.youtube.com\/watch?v=Z\_nwcx-N8Dc](https://www.youtube.com/watch?v=Z_nwcx-N8Dc)
 
 
 
-You can store your backup either on a USB-Stick\\/SD-Card or in the Cloud. Both have their advantages and disadvantages.
-
+You can store your backup either on a USB-Stick\/SD-Card or in the Cloud. Both have their advantages and disadvantages.
 
 
 

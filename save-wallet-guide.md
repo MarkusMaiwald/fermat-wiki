@@ -42,7 +42,6 @@ But there is still the possibility that someone breaks into your apartment and s
 To be on the safe side, you will need to make an encrypted backup of your “digital safe” wallet.
 
 Just follow this tutorial:
-
 {%youtube}Z\_nwcx-N8Dc{%endyoutube}
 [https:\/\/www.youtube.com\/watch?v=Z\_nwcx-N8Dc](https://www.youtube.com/watch?v=Z_nwcx-N8Dc)
 

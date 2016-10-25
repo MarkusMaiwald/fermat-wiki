@@ -6,11 +6,9 @@ The first Local Chapters that are established by Fermatian will be supported by 
 
 ## Requirements
 
-To be accepted as a trusted Local Chapter, some requirements have to be met. These requirements make sure that the Local Chapter will be able to support the Fermat Network.
+To be accepted as a Trusted Local Fermat Chapter \(with official badge=\), some requirements have to be met. These requirements make sure that the Local Chapter will be able to support the Fermat Network and the Community.
 
 Theses requirements are:
-
-* 
 
 ## Responsibilities
 
@@ -26,8 +24,6 @@ The Fermat Local Chapters are responsible for
 
 
 ## Rules for trusted Local Chapters
-
-
 
 1. **Set up a legal framework and connect Fermat to real life business**
 

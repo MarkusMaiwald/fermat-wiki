@@ -1,6 +1,6 @@
+{% set author = "sarah4fermat" %}
+
 # Safe Wallet Guide for countries with a high theft rate
-
-
 
 Many people say that Crypto-Wallets are a very safe place to store your money in. But there are several circumstances in which you can lose your Wallet and therefore your money.
 

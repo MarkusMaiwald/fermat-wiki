@@ -21,6 +21,7 @@ You will need:
 
 ## Step 1 - Download\/Install the IoP Wallet
 
+{%youtube%}ruI9aCZD\_NA{%endyoutube%}
 [https:\/\/www.youtube.com\/watch?v=ruI9aCZD\_NA](https://www.youtube.com/watch?v=ruI9aCZD_NA)
 
 Install the IoP Wallet on both of your Smartphones.

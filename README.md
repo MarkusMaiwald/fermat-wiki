@@ -1,3 +1,3 @@
 {% set author = "mmatk" %}
-# Official Fermat Community Wiki and Guidelines
+# Fermat Community Wiki and Guidelines
 

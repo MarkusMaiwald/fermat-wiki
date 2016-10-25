@@ -2,5 +2,5 @@
 
 * [Welcome](README.md)
 * [Fermat Local Chapter](fermat-local-chapter.md)
-* [Safe Wallet Guide](save-wallet-guide.md)
+* [Safe Wallet Guide](Software/IoP Wallet - Safe Wallet Guide.md)
 

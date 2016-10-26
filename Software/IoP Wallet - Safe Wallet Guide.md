@@ -4,9 +4,9 @@ Many people say that Crypto-Wallets are a very safe place to store your money in
 
 
 
-Imagine you only have a smartphone and no computer to store your money\/IoPs on. Normally you take your smartphone everywhere you go. But if you live in a country with a high theft rate, the probability to lose your smartphone, and the wallet stored on it, is very high. There are several countries in which this is the case, these are for example Belgium, Venezuela, South Africa and many more.
+Imagine you only have a smartphone and no computer to store your IoP'toshis on. Normally, you take your smartphone everywhere you go. But if you live in a country with a high theft rate, the probability to lose your smartphone, and the wallet stored on it, is very high. There are several countries in which this is the case, these are for example Belgium, Venezuela, South Africa and many more.
 
-So storing all your money\/IoPs on your smartphone is very dangerous!
+So storing all your IoP'toshis on your smartphone is very dangerous!
 
 In the following guide we will describe a way to keep your money safe although you live in a country with a high crime rate in theft.
 

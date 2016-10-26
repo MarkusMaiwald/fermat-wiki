@@ -2,7 +2,7 @@
 
 Fermat is trying to be mass adopted. For this goal it is necessary to build a strong network and therefore a strong community. Local Chapters take a big part in reaching this goal. They are responsible to bring Fermat and all its advantages to the people.
 
-The first Local Chapters that are established by Fermatian will be supported by the existing base community. They are going through a supportiv process and can be considered trusted Local Chapters.
+The first Local Chapters that are established by Fermatian will be supported by the existing base community. They are going through a supportive process and can be considered trusted Local Chapters.
 
 ## Requirements
 

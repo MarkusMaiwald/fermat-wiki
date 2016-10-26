@@ -1,2 +1,0 @@
-# Fermat Local Chapter
-

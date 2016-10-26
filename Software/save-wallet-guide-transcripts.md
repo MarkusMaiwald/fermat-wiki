@@ -1,6 +1,6 @@
 # Save Wallet Guide transcripts
 
-https:\/\/www.youtube.com\/watch?v=ruI9aCZD\_NA
+www.youtube.com\/watch?v=ruI9aCZD\_NA
 
 ## ENGLISH
 

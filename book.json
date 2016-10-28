@@ -15,4 +15,7 @@
             "useIdentifier": true
         }
     }
+    "styles": {
+    "faq": "styles/faq.css"
+}
 }

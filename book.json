@@ -5,7 +5,9 @@
         "youtubex",
         "theme-default",
         "autocover",
-        "git-author"
+        "git-author",
+        "prism",
+        "-highlight"
     ],
     "pluginsConfig": {
         "disqus": {

@@ -14,8 +14,8 @@
             "shortName": "fermat-wiki",
             "useIdentifier": true
         }
-    }
+
     "styles": {
     "faq": "styles/faq.css"
-}
+    }
 }

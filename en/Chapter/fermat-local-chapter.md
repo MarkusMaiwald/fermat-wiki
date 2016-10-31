@@ -22,7 +22,7 @@ The Fermat Local Chapters are responsible for
 
 3. **Building an ecosystem around the Chapter with Community**
 
-To get some tips for building your network, look [here]().
+To get some tips for building your network, look [here](../FAQs/chapter-tips.md).
 
 ## Rules for trusted Local Chapters
 

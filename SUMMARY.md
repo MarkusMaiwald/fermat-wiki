@@ -6,4 +6,5 @@
    * [Fermat Software](en/Software/fermat_software.md)
    * [Safe Wallet Guide](en/Software/IoP Wallet - Safe Wallet Guide.md)
    * [IoP Wallet](en/Software/iop_wallet.md)
+* FAQ
 

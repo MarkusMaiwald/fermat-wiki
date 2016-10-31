@@ -8,4 +8,5 @@
    * [IoP Wallet](en/Software/iop_wallet.md)
 * FAQ
    * Chapter Tips
+   * FAQ General Questions
 

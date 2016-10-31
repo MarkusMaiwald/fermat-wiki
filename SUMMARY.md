@@ -7,6 +7,6 @@
    * [Safe Wallet Guide](en/Software/IoP Wallet - Safe Wallet Guide.md)
    * [IoP Wallet](en/Software/iop_wallet.md)
 * FAQ
-   * [Chapter Tips](en/FAQs/chapter-tipsmd.md)
+   * [Chapter Tips](en/FAQs/chapter-tips.md)
    * FAQ General Questions
 

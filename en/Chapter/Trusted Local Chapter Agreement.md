@@ -40,7 +40,11 @@ This is not a contract with anybody, but my very own public written expression o
 
 _Disclosure: I am aware that if I do not fulfill any of these rules and responsibilities, I may lose my right to mine or even be expelled from the official Fermat Local Chapters Network._
 
+
+
 City, Date, Your Full Name + Signature
+
+
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

@@ -10,7 +10,7 @@ _The Fermat chapters represent the Fermat community members aká Fermatians in t
 The software, the network, the chapters and the real people are decentralized and distributed. The network consists of hardware nodes providing services and connectivity to IoP apps. To organize the large amount of people expected to join, we propose the development of a dense structure of local trusted nodes \(of hardware and people\) that constitute a distributed federation of localized chapters that successfully implement the Internet of People with the highest atomicity possible. The division into local chapters around the globe ensures resilience against centralization and censorship. With distributed chapters there is no single point of failure.
 
 _It also allows for the possibility of creating and maintaining sustainable communities, socially and economically independent and yet interconnected. The resulting regionalization is fundamental to adapt the global concept to each group of people with specific and distinct characteristics, letting the system adapt to each niche discovered \(use case\) and to each idiosyncrasy \(region, ethnicity or national identity\)._ 
-The sustainability at every level of the organisation is a key to ensure scalability and natural growth.
+The sustainability and decentralization at every level of the Fermat Federation is a key to ensure scalability and natural growth.
 
 The chapters will be build under certain guidelines and conditions defined by the Fermat Foundation that is responsible for the implementation of the Fermat project, and their activities being in accordance with the Fermat Vision and the blockchain voters.
 
@@ -44,8 +44,6 @@ The distributed federation of chapters contains self sustaining local chapters w
 * Priority of submitted projects and getting funding from the Fermat Foundation \(or similar legal entity defined\).
 
 
-
-
 Everybody can set up a Fermat chapter, as everybody can build and set up a node.
 
 Chapters meeting over conditions \(e.g. building a legal entity\) can apply for approvement by the foundation and get an official trusted badge and will get the title of an embassy.
@@ -70,12 +68,6 @@ But moreover, the Chapters must build _Full Nodes_ and place them all over the c
 
 * Following the general Fermat Vision
 
-
-## One Chapter per Country\/Region
-
-To ensure a decentralized structure from the outset, the Fermat Foundation approves the most committed chapters as “authorized chapters” that build the initial backbone of the IoP.
-
-These act like a representation of people in a certain area. Fermatians are free to choose which nearby chapter they wish to be represented by.
 
 ## One Website per Chapter
 
@@ -138,38 +130,58 @@ There are some topics that need to be addressed on the Chapter’s website. Some
   * apps\/platforms built on Fermat
 
 
-* Furthering business opportunities with Fermat \(e.g. Start ups using Fermat\)
 
+* Furthering business opportunities with Fermat \(e.g. Start ups using Fermat\)
+* Being a member of the Fermat Freedom Federation
 
 ## Community building
 
 * Fostering development of local community
 
-  * Supporting local projects build with the help of Fermat ecosystem
+  * Promoting local projects build with the help of Fermat ecosystem
 
-  * Supporting, guiding and inter-connecting different Fermatians in the area
+  * Guiding and inter-connecting different Fermatians in the area
 
 
-* Gather to, connect and maintain a social network of trusted node operators \(aká Delegates\)
+
+* Gather \/ connect to a social network of trusted node operators or maintain such \(aká Delegates\)
 
 * Teaching \/ providing know-how to anyone wanting to become part of the ecosystem under the chapter and the Fermat Community
 
 
-* Organizing Meetups
-
-  * Being a good hoster, providing resources like Nibbles, Wi-Fi, etc
-
+* Attenting Meetups about Fermat relevant topics
 
 
 # Trusted Fermat Local Chapter
 
-Trusted Chapters will engage in economic activities as legal entities, thereby ensuring their sustainability.
+Trusted Chapters will engage in economic activities as legal entities, thereby ensuring their sustainability. Trusted Chapters can be seen as embassies and should react as such. They follow the same rules like Fermat Chapters, but on top they have some more rules to obey:
+
+## Rules for Trusted Chapters
+
+### Supporting Fermat
+
+* Organizing Meetups
+  * Being a good hoster, providing resources like Nibbles, Wi-Fi, etc
+
+* Supporting as active member the Fermat Freedom Federation
+
+### One Trusted Chapter per Region
+
+To ensure a decentralized structure from the outset, the Fermat Foundation approves the most committed chapters – that build an an Internet of People Business – as “authorized chapters” that form the initial backbone of the IoP.
+
+These act like a representation of people in a certain area. Fermatians are free to choose which nearby chapter they wish to be represented by.
 
 Such a structure promotes fair competition, fosters an evolving community and even stabilizes conventional regional businesses through Fermat enabled micro economies that could interoperate around the globe.
 
-The very first Local Chapters that are established by Fermatians will be supported by the existing base community. They are going through a supportive process, setup legal entities and can be considered by the community as Trusted Local Chapters.
+The very first Local Chapters that are established by Fermatians will be supported by the existing base community. They are going through a supportive process, setup legal entities and can be considered by the community as Trusted Local Chapters as well.
 
-## Setting up legal framework
+### Setting up legal framework
 
-This is not mandatory. Everybody can setup a chapter. But to be accepted as trusted local chapter and embassy, a chapter must be officially registered with current legal authorities. This ensures legal protection of the Fermatian assets and interests build around them. We advise to use an offshore solution for this, may it either be a company, partnership, or foundation.
+Everybody can setup a chapter. But to be accepted as trusted local chapter and embassy, a chapter must be officially registered with current legal authorities. This ensures legal protection of the assets and Fermat inherent interests build around them.
+
+It is wise to use an offshore solution to protect your activities, may it either be a company, partnership, or foundation.
+
+### Applying to be entitled as Trusted Fermat Chapter
+
+Once you met the conditions, you can claim your untaken region \/ spot on the official Fermat Forum. Please introduce yourself, and collect votes from other Chapters and the Communty. On top. fill in the \_Trusted Local Chapter Agreement\_ and post it on your website and in the forum and connect to the Fermat Freedom Federation to claim a temporary mining licence, until the new Token System is ready.
 

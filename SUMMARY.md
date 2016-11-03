@@ -1,7 +1,7 @@
 # Summary
 
 * [Welcome](README.md)
-* [Fermat Local Chapter](en/Chapter/fermat-local-chapter.md)
+* [Fermat Local Chapters](en/Chapter/fermat-local-chapter.md)
 * [FAQs](FAQs/README.md)
     * [FAQ - General Questions](en/FAQs/faq_-_general_questions.md)
 * [Software](Software)

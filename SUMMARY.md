@@ -1,6 +1,5 @@
 * [Welcome](README.md)
 * [Fermat Local Chapter](en/Chapter/fermat-local-chapter.md)
-
 * [Trusted Local Chapter Agreement](en/Chapter/Trusted Local Chapter Agreement.md)
 * FAQ
 * [Chapter Tips](en/FAQs/chapter-tips.md)

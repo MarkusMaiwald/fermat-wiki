@@ -109,7 +109,8 @@ There are some topics that need to be addressed on the Chapter’s website. Some
 
 * Establishing peaceful relationships to local authorities
 
-  * _“We build the future and don’t fight the past”_
+  * _“We build the future and don’t fight the past”._
+
 
 
 * Attend neighbouring meetups and conferences
@@ -151,7 +152,6 @@ There are some topics that need to be addressed on the Chapter’s website. Some
 
 * Attenting Meetups about Fermat relevant topics
 
-
 # Trusted Fermat Local Chapter
 
 Trusted Chapters will engage in economic activities as legal entities, thereby ensuring their sustainability. Trusted Chapters can be seen as embassies and should react as such. They follow the same rules like Fermat Chapters, but on top they have some more rules to obey:
@@ -160,10 +160,17 @@ Trusted Chapters will engage in economic activities as legal entities, thereby e
 
 ### Supporting Fermat
 
-* Organizing Meetups
+* Organizing regulary Meetups in your region \(for example teaching pupils and entrepreneurs about the future\)
+
+  * aká \_"We know our future, because we are building it!"\_
+
   * Being a good hoster, providing resources like Nibbles, Wi-Fi, etc
 
+
+* Translating with other Chapters everything from the official Fermat Federation Websites \(Wiki, Articles\) to your local language
+
 * Supporting as active member the Fermat Freedom Federation
+
 
 ### One Trusted Chapter per Region
 

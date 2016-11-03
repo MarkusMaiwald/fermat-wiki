@@ -1,0 +1,6 @@
+{
+  "name": "Fermat-wiki",
+  "tagline": "Fermat Wiki",
+  "body": "{% set author = \"mmatk\" %}\r\n# Fermat Community Wiki\r\n## Guidelines to enter the Fermat Universe\r\n\r\n\r\nFirst you should know, that we, as an open and free project, depend heavily on the people collaborating and helping each other to make our community a better place.\r\nSmall steps and progress every day by hundrets of thousands of people makes a huge impact. If you want to be part of the fermat family and like to help then you are welcome to join us.\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}

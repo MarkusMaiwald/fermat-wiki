@@ -2,11 +2,11 @@
 
 I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
 
-responsible for the local chapter \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ,
+will be responsible in the country of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ,
 
-in the region \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ,
+to run a _Fermat Local Chapter_ in the region \/ state \/ idiosyncrasy of  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ,
 
-assure, that the responsibilities mentioned below will be perceived by me and my fellow Fermatians.
+and I assure, that the responsibilities mentioned below, will be perceived by me and my fellow Fermatians.
 
 These are:
 
@@ -17,18 +17,20 @@ These are:
 3. Building an ecosystem around the Chapter and supporting the Community
 
 
-We will comply with the following rules:
+To gain a mining licence, the rights mentioned below and to be recognized as a _Trusted Fermat Local Chapter,_
 
-1. Set up a legal framework and connect Fermat to real life business \(building business ontop of the IoP\)
+I will set up a legal framework and connect Fermat to real life business \(building business on top of the IoP\).
 
-2. Build and maintain a website dedicated to the Local Chapter
+I guarantee, that I and my fellow Fermatians will
 
-3. Setting up decentralized Full Stack Fermat Local Nodes in my region
+1. Build and maintain a website and use Social Media dedicated to the Local Chapter and Fermat
 
-4. Promoting Fermat and educating people about it
+2. Setting up decentralized Full Stack Fermat Local Nodes in my region
+
+3. Promoting Fermat and educating people about it, how to use it, why and the vision
 
 
-I am aware, that obtaining the status as an official local chapter is a respectable burden full of duties and responsibilities, to help fermat but also local economy in my area flourish, and therefore I may get a lot back from the Fermat community and from the Internet of People.
+I am aware, that obtaining the status as an official local chapter is a respectable burden full of duties and responsibilities, to help Fermat but also local economy in my area flourish, and therefore I may get a lot back from the Fermat community and from the Internet of People.
 
 I will help other chapters and feel myself as being a part of the human family.
 
@@ -40,11 +42,7 @@ This is not a contract with anybody, but my very own public written expression o
 
 _Disclosure: I am aware that if I do not fulfill any of these rules and responsibilities, I may lose my right to mine or even be expelled from the official Fermat Local Chapters Network._
 
-
-
 City, Date, Your Full Name + Signature
-
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

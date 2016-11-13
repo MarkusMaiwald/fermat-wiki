@@ -17,7 +17,7 @@ These are:
 3. Building an ecosystem around the Chapter and supporting the Community and giving back.
 
 
-I will set up a legal framework and connect Fermat to real life business \(building business on top of the IoP\), in return for gaining an extra mining licence for the chapter and to be recognized as a _Trusted Fermat Local Chapter_ that is allowed to use the official Fermat symbols and trademarks on behalf of Fermat itself.
+I will set up a legal framework and connect Fermat to real life business \(building business on top of the IoP\) to optain three extra mining licences for the chapter and to be recognized as a _Trusted Fermat Local Chapter_ that is allowed to use the official Fermat symbols and trademarks on behalf of Fermat itself.
 
 I guarantee, that I and my fellow Fermatians will
 
@@ -32,7 +32,7 @@ I am aware, that obtaining the status as an official local chapter is a respecta
 
 I will help other chapters and feel myself as being a part of the human family.
 
-By agreeing to and applying these terms, my local chapter earns the right to be part of the Closed Beta Mining Phase mining the stakes for the IoP Tokens.
+By agreeing to and applying these terms, my local chapter earns the right to be part of the Closed Beta Mining Phase mining the stakes for the IoP Tokens. On top, I gain the right to present me and my work under the umbrella of Fermat and gain the right to use it's branding and symbols.
 
 Also, I gain ownership of a dedicated _local layer_ within the Fermat framework and network, that should help me building a real life business around my nodes and ecosystem.
 

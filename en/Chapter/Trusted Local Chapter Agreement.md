@@ -10,16 +10,14 @@ and I assure, that the responsibilities mentioned below, will be perceived by me
 
 These are:
 
-1. Representing Fermat as a role model
+1. Representing Fermat as a role model;
 
-2. Supporting Fermat and its vision
+2. Supporting Fermat and its vision;
 
-3. Building an ecosystem around the Chapter and supporting the Community
+3. Building an ecosystem around the Chapter and supporting the Community and giving back.
 
 
-To gain a mining licence, the rights mentioned below and to be recognized as a _Trusted Fermat Local Chapter,_
-
-I will set up a legal framework and connect Fermat to real life business \(building business on top of the IoP\).
+I will set up a legal framework and connect Fermat to real life business \(building business on top of the IoP\), in return for gaining an extra mining licence for the chapter and to be recognized as a _Trusted Fermat Local Chapter_ that is allowed to use the official Fermat symbols and trademarks on behalf of Fermat itself.
 
 I guarantee, that I and my fellow Fermatians will
 
